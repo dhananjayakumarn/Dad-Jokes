@@ -1,0 +1,52 @@
+body{
+    background-color:#686de0 ;
+    
+}
+
+.frame{
+    width: 800px;
+    height: 350px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    border-style: none;
+    margin-left: 350px;
+    margin-top: 150px;
+    background-color: white;
+    box-shadow: 1px 1px 6px;
+    flex-direction: column;
+    
+
+}
+
+h3{
+    padding-top: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+button{
+    margin-top: 160px;
+    height: 45px;
+    width: 200px; 
+    background-color:blueviolet;
+    border-radius: 15px;
+    margin-left: 650px;
+    margin-top: 20px;
+    opacity: 0.9;
+    color: white;
+    border-style: none;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 10%), 0 6px 6px rgb(0 0 0 / 10%);
+    cursor: pointer;
+
+}
+
+#joke{
+    font-size: 30px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    margin: 50px auto;
+    max-width: 600px;
+  }
